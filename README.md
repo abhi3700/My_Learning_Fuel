@@ -115,3 +115,4 @@ available binaries: examples-checker, forc, forc-deploy, forc-doc, forc-fmt, for
   - [Sway](https://github.com/FuelLabs/sway)
 - [Sway language book w.r.t SC](https://fuellabs.github.io/sway/v0.35.1/book/index.html)
 - [Sway language reference](https://fuellabs.github.io/sway/master/reference/)
+- [Fuel specifications](https://fuellabs.github.io/fuel-specs/master/fuel-specs.html)
